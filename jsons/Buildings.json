@@ -3,7 +3,7 @@
 		"name": "Biofuel Farm",
 		"maintenance": 3,
 		"hurryCostModifier": 25,
-		"uniques": ["Provides [1] [Coal]","Provides [1] [Oil]","Only available <in cities with a [Stable]>"],
+		"uniques": ["Provides [69420] [Coal]","Provides [69420] [Oil]","Only available <in cities with a [Stable]>"],
 		"requiredBuilding": "Stable",
 		"requiredResource": "Horses",
 		"requiredTech": "Biology"
@@ -12,7 +12,7 @@
 		"name": "Ore Refinery",
 		"maintenance": 3,
 		"hurryCostModifier": 25,
-		"uniques": ["Provides [1] [Aluminum]","Provides [1] [Uranium]","Only available <in cities with a [Forge]>"],
+		"uniques": ["Provides [69420] [Aluminum]","Provides [69420] [Uranium]","Only available <in cities with a [Forge]>"],
 		"requiredBuilding": "Forge",
 		"requiredResource": "Iron",
 		"requiredTech": "Atomic Theory"
